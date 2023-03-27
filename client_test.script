@@ -1,0 +1,17 @@
+Script started on Sun Apr 25 21:30:00 2021
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mariano.local/Users/hilite/mariano_p4[0m[27m[24m[Jhilite@Mariano mariano_p4 % [K[?2004hggcc -g -Wall P4FTPClient.c[1m [0m[0m -o s cleint    ient.out[?2004l
+[1mP4FTPClient.c:28:9: [0m[0;1;35mwarning: [0m[1minitializing 'char *' with an expression of type
+      'const char *' discards qualifiers
+      [-Wincompatible-pointer-types-discards-qualifiers][0m
+  char *filename = argv[1];
+[0;1;32m        ^          ~~~~~~~
+[0m1 warning generated.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mariano.local/Users/hilite/mariano_p4[0m[27m[24m[Jhilite@Mariano mariano_p4 % [K[?2004h../client.out test.txt 127.0.0.1 50000[?2004l
+File data sent successfully.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mariano.local/Users/hilite/mariano_p4[0m[27m[24m[Jhilite@Mariano mariano_p4 % [K[?2004heexit[?2004l
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Sun Apr 25 21:30:40 2021

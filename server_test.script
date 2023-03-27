@@ -1,0 +1,15 @@
+Script started on Sun Apr 25 21:29:25 2021
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mariano.local/Users/hilite/mariano_p4[0m[27m[24m[Jhilite@Mariano mariano_p4 % [K[?2004hcat recv.txt[12D./server.out 4075[17Dpwd              [14Dcd mariano_p4[13Dls           [11Dcd Desktop/mariano_p4/mariano_p4[32Dls                              [30Dcd mariano_p4[13Dpwd          [10D./server.out 4075[17Dcat recv.tx[2C    [12D            [12Dcat recv.txt[12D            [12Dggcc -g -Wall P4FTPServer.c[1m [0m[0m -o server.out[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mariano.local/Users/hilite/mariano_p4[0m[27m[24m[Jhilite@Mariano mariano_p4 % [K[?2004hgcc -g -Wall P4FTPServer.c -o server.out[40Dcat recv.txt                            [28D[12D./server.out 4075[17Dpwd              [14D./server.out 4075[17Dcat recv.tx[2C    [12Dgcc -g -Wall P4FTPServer.c -o server.out[40D                                        [40Dgcc -g -Wall P4FTPServer.c -o server.out[40Dcat recv.txt                            [28D[12D./server.out 4075[17Dpwd              [14D./server.out 4075    50000[?2004l
+test.txt has: Hello, my name is Mariano Garcia and I would like to test out this server.
+
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mariano.local/Users/hilite/mariano_p4[0m[27m[24m[Jhilite@Mariano mariano_p4 % [K[?2004hccat recv.txt[1m [0m[0m [?2004l
+Hello, my name is Mariano Garcia and I would like to test out this server.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Mariano.local/Users/hilite/mariano_p4[0m[27m[24m[Jhilite@Mariano mariano_p4 % [K[?2004heexit[?2004l
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+Deleting expired sessions...      93 completed.
+
+Script done on Sun Apr 25 21:30:38 2021
